@@ -335,7 +335,7 @@ The data for aiXcoder is divided into a core dataset and an extended dataset. Th
 
 <br>
 <br> -->
-
+browserstack
 
 The aiXcoder core dataset is mainly used to enhance the performance of the large code model in the aforementioned programming languages, undergoing a rigorous filtering and selection process. Specifically, this process includes the following steps: 1) Selection of raw data; 2) Comprehensive ranking and selection of projects; 3) Code deduplication and the removal of automatically generated code using methods such as MinHashes (Broder, 2000); 4) Identification and handling of personal sensitive information; 5) Cleaning of commented code; 6) Syntactic analysis to filter incorrect or anomalous code files; 7) Static analysis to detect and eliminate 163 types of high-risk bugs and 197 types of defects in mainstream programming languages such as Java, C++, Python, and JavaScript.
 
